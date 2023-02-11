@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/restaurant_landing_page/static/css/main.3a309893.css",
+    "main.js": "/restaurant_landing_page/static/js/main.47036440.js",
+    "static/js/787.e74c31a6.chunk.js": "/restaurant_landing_page/static/js/787.e74c31a6.chunk.js",
+    "static/media/home-banner-image.png": "/restaurant_landing_page/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/restaurant_landing_page/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/restaurant_landing_page/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/restaurant_landing_page/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/restaurant_landing_page/index.html",
+    "main.3a309893.css.map": "/restaurant_landing_page/static/css/main.3a309893.css.map",
+    "main.47036440.js.map": "/restaurant_landing_page/static/js/main.47036440.js.map",
+    "787.e74c31a6.chunk.js.map": "/restaurant_landing_page/static/js/787.e74c31a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a309893.css",
+    "static/js/main.47036440.js"
+  ]
+}
